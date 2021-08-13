@@ -4,5 +4,9 @@ Data Visualization
 Data Mining
 Software Engineering
 
+Additional Courses-
+Gaming Design
+IOT
+ML
 
 ---- End of List -----
