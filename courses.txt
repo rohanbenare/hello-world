@@ -10,5 +10,6 @@ IOT
 ML
 
 I'd also like to have the courses for exchange students(Mandatory)
-
+FRench English
+British English
 ---- End of List -----
