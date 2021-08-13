@@ -10,5 +10,8 @@ IOT
 ML
 
 I'd also like to have the courses for exchange students(Mandatory)
+French classes
+DM 1
+DM 2
 
 ---- End of List -----
